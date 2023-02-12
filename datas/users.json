@@ -1,0 +1,42 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Samantha White",
+        "email": "samantha.white@example.com",
+        "phone": "(555) 123-4567",
+        "address": {
+          "street": "123 Main St",
+          "city": "Anytown",
+          "state": "CA",
+          "zip": "12345"
+        }
+      },
+      {
+        "id": 2,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "(555) 234-5678",
+        "address": {
+          "street": "456 First St",
+          "city": "Othertown",
+          "state": "CA",
+          "zip": "23456"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phone": "(555) 345-6789",
+        "address": {
+          "street": "789 Second St",
+          "city": "Yetanothertown",
+          "state": "CA",
+          "zip": "34567"
+        }
+      }
+      
+    ]
+  }
+  

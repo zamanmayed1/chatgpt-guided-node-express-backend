@@ -1,0 +1,16 @@
+Base URL : http://localhost:5000/
+
+Users: -----------------------------------------------
+Base URL : http://localhost:5000/users
+By Id : http://localhost:5000/users?id=
+By email : http://localhost:5000/users?email=
+By name : http://localhost:5000/users?name=
+
+Posts: -----------------------------------------------
+Base URL : http://localhost:5000/posts
+By Title : http://localhost:5000/posts?q=
+By Id : http://localhost:5000/posts?id=
+
+Carts: -----------------------------------------------
+By email : http://localhost:5000/carts/:email
+By Product Id : http://localhost:5000/carts/products/:productId

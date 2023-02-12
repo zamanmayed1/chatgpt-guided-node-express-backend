@@ -1,0 +1,29 @@
+[
+    {
+      "product": "Product 1",
+      "userEmail": "user1@example.com",
+      "productId": "p123"
+    },
+    {
+      "product": "Product 2",
+      "userEmail": "user2@example.com",
+      "productId": "p234"
+    },
+    {
+      "product": "Product 3",
+      "userEmail": "user1@example.com",
+      "productId": "p345"
+    },
+    {
+      "product": "Product 4",
+      "userEmail": "user3@example.com",
+      "productId": "p456"
+    },
+    {
+      "product": "Product 4",
+      "userEmail": "user3@example.com",
+      "productId": "p456"
+    }
+   
+  ]
+  
